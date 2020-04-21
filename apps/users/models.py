@@ -2,6 +2,8 @@ from django.db import models
 
 # 继承这个类
 from django.contrib.auth.models import AbstractUser
+
+from datetime import datetime
 # Create your models here.
 
 
@@ -9,6 +11,17 @@ GENDER_CHOICES=(
     ("male", "男"),
     ("female", "女")
 )
+
+
+# 这个model是希望被其他model继承的。
+class BaseModel(models.Model):
+    # now不要加括号，原因在于不希望时间是创建Course类的时候，而是希望在实例化的时候才记录当时的时间
+    add_time = models.DateTimeField(default=datetime.now, verbose_name="添加时间")
+
+    # 不希望这个BaseModel生成表
+    class Meta:
+        abstract = True
+
 
 # 定义自己的user
 class UserProfile(AbstractUser):
