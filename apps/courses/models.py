@@ -2,6 +2,7 @@ from django.db import models
 
 # import 自己定义的Model，是在users里面，因为users在最底层
 from apps.users.models import BaseModel
+from apps.organizations.models import Teacher
 
 # Create your models here.
 # 实体1 - 关系 - 实体2
@@ -11,6 +12,7 @@ from apps.users.models import BaseModel
 # 每一个字段的类型，是否必填
 
 class Course(BaseModel):
+    teacher = models.ForeignKey(Teacher, on_delete=models.CASCADE, verbose_name="讲师")
     name = models.CharField(verbose_name="课程名", max_length=50)
     desc = models.CharField(verbose_name="课程描述", max_length=300)
     learn_times = models.IntegerField(default=0, verbose_name="学习时长（分钟数）")
