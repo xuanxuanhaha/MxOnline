@@ -9,4 +9,4 @@ class UserProfileAdmin(admin.ModelAdmin):
     pass
 
 # 表的class，管理器的class
-admin.site.register(UserProfile, UserAdmin)
+# admin.site.register(UserProfile, UserAdmin)
