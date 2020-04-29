@@ -2,360 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4b0d65f-43e0-46e9-8d6d-659c6ce6c25b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/aui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/aui_iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/lq.datetimepick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/mooc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/muke/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/muke/common-less.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/muke/course/common-less.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/muke/course/course-comment.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/muke/course/learn-less.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/video-js.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/01_mid.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/01_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/02_mid.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/02_small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/57a801860001c34b12000460.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/57aa86a0000145c512000460.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/about_nav_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/aobama.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/arrow_g.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/authentication.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bank1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bank2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bank3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bank4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bank5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner_icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner_icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner_icon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner_icon4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bgblack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/billbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/billbox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/billboxactive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/billcheck.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/billcheckg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bjdx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/btn1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/btn2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/btn3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/btn4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/check2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/check3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/check4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/check_alt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/checkbox.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/checked.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/code.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/companydes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/companylogo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/companyrank.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/compright.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/contract.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/course.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/delete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/diary-edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dig_close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/drop_plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/drop_plus_g.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/error-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/feature1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/feature2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/feature3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/feature4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/feature5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/feature6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/avi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/cdr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/csv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/doc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/jpg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/mp3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/pdf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/ppt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/rar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/txt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/xls.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/zip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/filebg/复件 txt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/fold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/footlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/fqy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/g_star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/gj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/goback.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/group.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/group_recommend.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/gx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/h_star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/header_middle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/help_index_pic.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/homepage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ht-top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon-diary-jl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon-diary-my.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon-diary-user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon-release-active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon-release-on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon-release-over.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/laba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/list_time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/login-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/mask.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/mayun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module1_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module1_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module3_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module4_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module4_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module4_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module4_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module4_4_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module4_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module5_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module5_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module6_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/module6bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/my.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/mysql.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/nav_arrow.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/nav_hot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/njdx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/oyf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/path2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/path3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/path4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/path5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/path6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pathbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pathbg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pay1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pay2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pay3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pay4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/paypic1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/paypic2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic1_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic403.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic503.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pixel.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/plus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pop-tips-info-arr.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/python-zhengze.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/python.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/qhdx-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/qhdx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/r_star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/rankgold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/rankgreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/release1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/release2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/release3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/release4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/release5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/release6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/release7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/release8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/rightform1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/rightform2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/rightform3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/rolling.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sass.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/scores.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/search_btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/select-arr-default.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/select_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/select_arrow2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/send.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/share_c1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/share_c1_g.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/share_c2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/share_c3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/share_c4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/share_c5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/share_c6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/share_c7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/share_c8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/share_c9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/side1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/side1_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/side2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/side2_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/side3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/side3_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/side4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/side4_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/slide_l.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/slide_l_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/slide_r.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/slide_r_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/star-btn-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/star-btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/star-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tab-jt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/top_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/unfold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/weixi_icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/weixi_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/weixi_sm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/word403.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/word503.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/x_alt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/zwj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/background.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/cancel-off-big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/cancel-on-big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/coffee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/face-a-off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/face-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/face-b-off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/face-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/face-c-off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/face-c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/face-d-off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/face-d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/face-off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/medal-off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/medal-on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/star-half-big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/star-off-big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/star-on-big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/AdrInputPopDiv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/area.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/autocomplete-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/comment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/deco-comment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/deco-common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/deco-user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/fastclick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/fliplightbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/fold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jQuery.artTxtCount.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jcarousel.connected-carousels.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-migrate-1.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-powerFloat-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-xmenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.autocomplete.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.cookie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.formset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.imagezoom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.jcarousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.uploadify.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/lq.datetimepick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/datePicker/mobiscroll.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/datePicker/mobiscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/jquery.flexslider-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/jquery.raty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/jquery.scrollLoading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/jquery.timer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/jquery.upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/laydate/laydate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/laydate/need/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/laydate/skins/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/laydate/skins/default/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/layer/extend/layer.ext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/layer/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/layer/skin/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/layer/skin/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/layer/skin/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/layer/skin/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/layer/skin/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/layer/skin/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/layer/skin/layer.ext.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/css/cityLayout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/images/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/images/bg_mc_0113_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/images/bg_mc_0113_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/images/bg_mc_0113_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/images/bg_mc_0113_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/images/bg_mc_0130_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/images/bg_mc_0130_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/images/ts-indexcity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/js/public.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/js/public2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/js/queryAllAreas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/js/queryAllProvinces.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/queryCity/js/queryCities.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/plugins/upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/selectUi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/unslider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/validateDialog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/video.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/wechat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/403.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/course-comment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/course-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/course-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/course-play.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/course-video.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/org-detail-course.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/org-detail-desc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/org-detail-homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/org-detail-teachers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/org-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/teacher-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/teachers-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/usercenter-fav-course.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/usercenter-fav-org.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/usercenter-fav-teacher.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/usercenter-info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/usercenter-message.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/usercenter-mycourse.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MxOnline/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MxOnline/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -446,7 +96,8 @@
       <workItem from="1587433911442" duration="13494000" />
       <workItem from="1587865741286" duration="1880000" />
       <workItem from="1587956256446" duration="6742000" />
-      <workItem from="1587965516315" duration="13325000" />
+      <workItem from="1587965516315" duration="13583000" />
+      <workItem from="1588071783335" duration="3234000" />
     </task>
     <servers />
   </component>
@@ -459,34 +110,38 @@
     </state>
     <state x="306" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.961@0.23.1680.961" timestamp="1587437523542" />
     <state x="306" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.965@0.23.1680.965" timestamp="1586607904653" />
-    <state width="1052" height="379" key="GridCell.Tab.0.bottom" timestamp="1587975720495">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1051" height="434" key="GridCell.Tab.0.bottom" timestamp="1588161526681">
+      <screen x="0" y="23" width="1680" height="967" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1587437556626" />
+    <state width="1052" height="379" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1587996199467" />
     <state width="1638" height="270" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1587436933349" />
     <state width="1052" height="379" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1587975720495" />
     <state width="1638" height="275" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1587909955655" />
-    <state width="1052" height="379" key="GridCell.Tab.0.center" timestamp="1587975720495">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1051" height="434" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1588161526681" />
+    <state width="1051" height="434" key="GridCell.Tab.0.center" timestamp="1588161526680">
+      <screen x="0" y="23" width="1680" height="967" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1587437556626" />
+    <state width="1052" height="379" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1587996199467" />
     <state width="1638" height="270" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1587436933348" />
     <state width="1052" height="379" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1587975720495" />
     <state width="1638" height="275" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1587909955654" />
-    <state width="1052" height="379" key="GridCell.Tab.0.left" timestamp="1587975720494">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1051" height="434" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1588161526680" />
+    <state width="1051" height="434" key="GridCell.Tab.0.left" timestamp="1588161526679">
+      <screen x="0" y="23" width="1680" height="967" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1587437556625" />
+    <state width="1052" height="379" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1587996199467" />
     <state width="1638" height="270" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1587436933348" />
     <state width="1052" height="379" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1587975720494" />
     <state width="1638" height="275" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1587909955653" />
-    <state width="1052" height="379" key="GridCell.Tab.0.right" timestamp="1587975720495">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1051" height="434" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1588161526679" />
+    <state width="1051" height="434" key="GridCell.Tab.0.right" timestamp="1588161526680">
+      <screen x="0" y="23" width="1680" height="967" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1587437556626" />
+    <state width="1052" height="379" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1587996199467" />
     <state width="1638" height="270" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1587436933349" />
     <state width="1052" height="379" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1587975720495" />
     <state width="1638" height="275" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1587909955654" />
+    <state width="1051" height="434" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1588161526680" />
     <state width="1638" height="316" key="GridCell.Tab.1.bottom" timestamp="1587823586821">
       <screen x="0" y="23" width="1680" height="965" />
     </state>
@@ -511,13 +166,13 @@
       <screen x="0" y="23" width="1680" height="965" />
     </state>
     <state x="544" y="106" key="SettingsEditor/0.23.1680.965@0.23.1680.965" timestamp="1587967875136" />
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1587956266360">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1588072774657">
+      <screen x="0" y="23" width="1680" height="966" />
     </state>
     <state x="519" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1586778986089" />
     <state x="519" y="334" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1587433912367" />
     <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.965@0.23.1680.965" timestamp="1587956266360" />
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.966@0.23.1680.966" timestamp="1587908147324" />
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.966@0.23.1680.966" timestamp="1588072774657" />
     <state x="519" y="338" key="com.intellij.ide.util.TipDialog/0.23.1680.972@0.23.1680.972" timestamp="1586650246592" />
   </component>
 </project>
