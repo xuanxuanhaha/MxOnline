@@ -1,16 +1,26 @@
 from django.shortcuts import render
 
 from django.views.generic.base import View
-from django.contrib.auth import authenticate, login
+from django.contrib.auth import authenticate, login, logout
 from django.http import HttpResponseRedirect
 from django.urls import reverse
 
 from apps.users.forms import Loginform
 
+# 处理get请求，重载get方法
+class LogoutView(View):
+    def get(self, request, *args, **kwargs):
+        logout(request)
+        # 重定向到首页
+        return HttpResponseRedirect(reverse("index"))
+
 
 # 同时处理get和post请求
 class LoginView(View):
     def get(self, request, *args, **kwargs):
+        if request.user.is_authenticated:
+            # 重定向到首页
+            return HttpResponseRedirect(reverse("index"))
         return render(request, "login.html")
 
     def post(self, request, *args, **kwargs):
