@@ -74,6 +74,7 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'django.template.context_processors.media'
             ],
         },
     },
@@ -140,5 +141,7 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'apps/message_form/static')
 ]
 
+# 所有关于上传文件url
 MEDIA_URL = "/media/"
+# 指明上传文件放在哪里
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
